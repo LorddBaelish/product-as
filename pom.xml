@@ -950,5 +950,7 @@
 
         <!-- databridge component dependency for http statistics publishing integration test -->
         <databridge.component.version>4.2.0</databridge.component.version>
+     
+        <sonar.jacoco.itReportPath>target/jacoco/jacoco-it.exec</sonar.jacoco.itReportPath>
     </properties>
 </project>
